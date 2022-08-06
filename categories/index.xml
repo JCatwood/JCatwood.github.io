@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories | Hengrui Cai</title>
+    <title>Categories | Jian Cao</title>
     <link>https://jcatwood.github.io/categories/</link>
       <atom:link href="https://jcatwood.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>@2022 Hengrui Cai</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>@2022 Jian Cao</copyright>
     <image>
       <url>https://jcatwood.github.io/media/icon_hu351ee8e165486aa6f70b17ca5d5c115a_23980_512x512_fill_lanczos_center_3.png</url>
       <title>Categories</title>
